@@ -36,7 +36,7 @@
         </div>                                
     </div>
     <h4><i>¡FALTA MUY POCO!</i></h4>
-    <div class="bottom">
+    <div class="">
         <hr>
         <hr>
     </div>
