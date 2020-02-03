@@ -1,10 +1,3 @@
-<!DOCTYE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="<?= base_url()?>assets/css/custom/creg.css">
-<script src="<?= base_url()?>assets/scripts/custom/creg.js"></script>
-</head>
 <body onload="ConteoRegresivo()">
 <div id="contenedor">
     <h2>Faltan</h2>
@@ -27,7 +20,7 @@
         </div>
         <div class="col-md-3">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header">Minutos</div>
+                <div class="card-header">Min.</div>
                 <div class="card-body">
                     <h5 id="minutos" class="card-title"></h5>                
                 </div>
@@ -35,7 +28,7 @@
         </div>
         <div class="col-md-3">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                <div class="card-header">Segundos</div>
+                <div class="card-header">Seg.</div>
                 <div class="card-body">
                     <h5 id="segundos" class="card-title"></h5>                
                 </div>
@@ -47,6 +40,3 @@
         <hr>
         <hr>
     </div>
-</div>
-</body>
-</html>
