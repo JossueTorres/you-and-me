@@ -16,7 +16,11 @@ function ConteoRegresivo()
         minutos=Math.floor(diferencia/60)
         diferencia=diferencia-(60*minutos)
         segundos=Math.floor(diferencia)
-        document.getElementById('contador').innerHTML = '' + dias + ' : ' + horas + ' : ' + minutos + ' : ' + segundos + ' Días  -  Horas  -  Minutos - Segundos';
+        document.getElementById('contador').innerHTML = '<div class="container"><div class="row"><div>' + dias 
+        + '</div> : <div>' + horas 
+        + '</div> : <div>' + minutos 
+        + '</div> : <div>' + segundos 
+        + '</div> <div>Días  -  Horas  -  Minutos - Segundos</div></div></div>';
         if (dias>0 || horas>0 || minutos>0 || segundos>0)
         {
             setTimeout("ConteoRegresivo()",1000);
