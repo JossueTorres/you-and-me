@@ -1,7 +1,7 @@
 <body onload="Conteo()">
 <div id="contenedor">
     <br>
-    <a href="<?= base_url()?>/you-and-me/Creg">¿Quieres saber cuánto tiempo falta para el gran día?</a>
+    <a href="<?= base_url()?>/Creg">¿Quieres saber cuánto tiempo falta para el gran día?</a>
     <br>
     <h2>Tenemos</h2>
     <div class="row">
@@ -39,4 +39,3 @@
         </div>                                
     </div>
     <h4><i>¡JUNTOS!</i></h4>
-</div>
