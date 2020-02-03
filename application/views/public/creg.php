@@ -1,7 +1,7 @@
 <body onload="ConteoRegresivo()">
 <div id="contenedor">
     <br>
-    <a href="<?= base_url()?>/Cont">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
+    <a href="<?= base_url()?>Cont">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
     <br>
     <h2>Faltan</h2>
     <div id="contador" class="row">
