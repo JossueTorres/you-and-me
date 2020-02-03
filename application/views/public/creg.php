@@ -6,15 +6,11 @@
 <script src="<?= base_url()?>assets/scripts/custom/creg.js"></script>
 </head>
 <body onload="ConteoRegresivo()">
-<div id="contenedor">
-    <img src="talu.png">
-    <h2>Faltan:</h2>
+<div id="contenedor">    
+    <h2>FALTAN SOLO</h2>
     <div id="contador"></div>
-    <h4><i>¡Para que empiece el Mundial de Fútbol Brasil 2014!</i></h4>
-    <div class="bottom">
-        <hr>
-        <p>Como hacer un conteo regresivo en HTML5, CSS3 y Javascript</p>
-        <p>http://www.genesisvargasj.com</p>
+    <h4><i>¡FALTA POCO!</i></h4>
+    <div class="bottom">        
     </div>
 </div>
 </body>
