@@ -1,7 +1,7 @@
 <body onload="ConteoRegresivo(); Conteo();">
 <div id="contenedor">
     <h2>Faltan</h2>
-    <div id="contador" class="row">
+    <div class="row">
         <div class="col-md-3">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Días</div>
@@ -35,16 +35,14 @@
             </div>
         </div>                                
     </div>
-    <h4><i>¡FALTA MUY POCO!</i></h4>
-    <div class="">
-        <hr>
-        <hr>
-    </div>
-    <br>
-    <hr>
-    <br>
+    <h4><i>¡FALTA MUY POCO!</i></h4>  
+</div>
+<br>
+<hr>
+<br>  
+<div id="contenedor">
     <h2>Tenemos</h2>
-    <div id="contador" class="row">
+    <div class="row">
         <div class="col-md-3">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Días</div>
