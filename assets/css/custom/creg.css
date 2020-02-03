@@ -7,11 +7,11 @@ body {
 }
 #contenedor{
     text-align:center;
-    position: relative;
+    position: absolute;
     left: 50%;
     top: 50%;
-    width: 90%;
-    height: 90%;
+    width: 450px;
+    height: 490px;
     margin-top: -245px;
     margin-left: -225px;
     overflow:hidden;
