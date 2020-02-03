@@ -1,6 +1,6 @@
 function ConteoRegresivo()
 {
-    var fecha=new Date('2020','2','4')
+    var fecha=new Date('2020','01','04')
     var hoy=new Date()
     var dias=0
     var horas=0
