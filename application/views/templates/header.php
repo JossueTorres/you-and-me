@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Cuenta Regresiva</title>
 
 <style type="text/css">
 
@@ -66,8 +66,10 @@ p.footer {
     box-shadow: 0 0 8px #D0D0D0;
 }
 </style>
-<script src="<?php echo base_url('/application/third_party/JQuery-3.4.1/jquery-3.4.1.js');?>"></script>
-<script src="<?php echo base_url('/application/third_party/SweetAlert2/dist/sweetalert2.js');?>"></script>
-<script src="<?php echo base_url('/application/assets/scriptfoot.js');?>"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+<script type="text/javascript" src="<?= base_url() ?>assets/scripts/custom/scriptfoot.js"></script>
 </head>
 <body>
