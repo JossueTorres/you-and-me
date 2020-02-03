@@ -1,6 +1,6 @@
 function ConteoRegresivo()
 {
-    var fecha=new Date('2020','4','4','00','00','00')
+    var fecha=new Date('2020','2','6','00','00','00')
     var hoy=new Date()
     var dias=0
     var horas=0
@@ -19,7 +19,7 @@ function ConteoRegresivo()
         document.getElementById('contador').innerHTML = '' + dias + ' : ' + horas + ' : ' + minutos + ' : ' + segundos + ' Días  -  Horas  -  Minutos - Segundos';
         if (dias>0 || horas>0 || minutos>0 || segundos>0)
         {
-            setTimeout(ConteoRegresivo(),1000);
+            setTimeout("ConteoRegresivo()",1000);
         }
     }
 }
