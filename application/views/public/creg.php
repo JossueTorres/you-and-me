@@ -4,8 +4,8 @@
     <a href="<?= base_url()?>Cont">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
     <br>
     <h2>Faltan</h2>
-    <div id="contador" class="row">
-        <div class="col-md-3">
+    <div class="row">
+        <div class="col-md-3 col-xs-12">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Días</div>
                 <div class="card-body">
@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-12">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Horas</div>
                 <div class="card-body">
@@ -21,7 +21,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-12">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Min.</div>
                 <div class="card-body">
@@ -29,7 +29,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-12">
             <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
                 <div class="card-header">Seg.</div>
                 <div class="card-body">
