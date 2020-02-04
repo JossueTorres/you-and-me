@@ -3,7 +3,7 @@
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-md-12 text-center" style="margin-bottom:5%">
             <br>
-            <a href="<?= base_url()?>Creg">¿Quieres saber cuánto tiempo falta para el gran día?</a>
+            <a href="<?= base_url()?>Creg" class="btn btn-outline-danger">¿Quieres saber cuánto tiempo falta para el gran día?</a>
             <br>
             <h2>Tenemos</h2>
         </div>

@@ -3,7 +3,7 @@
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-md-12 text-center" style="margin-bottom:5%">
             <br>
-            <a href="<?= base_url()?>Cont">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
+            <a href="<?= base_url()?>Cont" class="btn btn-outline-primary">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
             <br>
             <h2>Faltan</h2>
         </div>        
