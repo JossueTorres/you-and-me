@@ -1,7 +1,7 @@
 <body onload="Conteo()">
 <div class="container h-100">
     <div class="row h-100 justify-content-center align-items-center">
-        <div class="col-md-12 justify-content-center align-items-center">
+        <div class="col-md-12 text-center" style="margin-bottom:15%">
             <br>
             <a href="<?= base_url()?>Creg">¿Quieres saber cuánto tiempo falta para el gran día?</a>
             <br>
@@ -41,7 +41,7 @@
                 </div>
             </div>                                
         </div>
-        <div class="col-md-12">
+        <div class="col-md-12 text-center" style="margin-top:15%">
             <hr>
             <h4><i>¡JUNTOS!</i></h4>
             <hr>            
