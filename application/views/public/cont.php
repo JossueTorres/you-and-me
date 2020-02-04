@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-3 col-xs-12">
                 <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
-                    <div class="card-header">Horas</div>
+                    <div class="card-header">Hrs.</div>
                     <div class="card-body">
                         <h5 id="ahoras" class="card-title"></h5>                
                     </div>
@@ -39,6 +39,6 @@
                 </div>
             </div>                                
         </div>
+        <br>
         <h4><i>¡JUNTOS!</i></h4>
     </div>
-</div>
