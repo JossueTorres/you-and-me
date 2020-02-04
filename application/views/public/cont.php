@@ -1,9 +1,10 @@
 <body onload="Conteo()">
+<div class="container"></div>
 <div class="container h-100">
     <div class="row h-100 justify-content-center align-items-center">
-        <div class="col-md-12 text-center" style="margin-bottom:5%">
+        <div class="col-md-12 text-center" style="margin-bottom:1%;margin-top:1%;">
             <br>
-            <a href="<?= base_url()?>Creg" class="btn btn-outline-danger">¿Quieres saber cuánto tiempo falta para el gran día?</a>
+            <a href="<?= base_url()?>Creg" class="btn btn-outline-danger col-md-12">¿Quieres saber cuánto tiempo falta para el gran día?</a>
             <br>
             <h2>Tenemos</h2>
         </div>
@@ -41,7 +42,7 @@
                 </div>
             </div>                                
         </div>
-        <div class="col-md-12 text-center" style="margin-top:5%">
+        <div class="col-md-12 text-center" style="margin-top:1%">
             <hr>
             <h4><i>¡JUNTOS!</i></h4>
             <hr>            

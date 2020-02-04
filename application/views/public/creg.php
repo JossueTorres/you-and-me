@@ -1,9 +1,9 @@
 <body onload="ConteoRegresivo()">
 <div class="container h-100">
     <div class="row h-100 justify-content-center align-items-center">
-        <div class="col-md-12 text-center" style="margin-bottom:5%">
+        <div class="col-md-12 text-center" style="margin-bottom:1%;margin-top:1%;">
             <br>
-            <a href="<?= base_url()?>Cont" class="btn btn-outline-primary">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
+            <a href="<?= base_url()?>Cont" class="btn btn-outline-primary col-md-12">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
             <br>
             <h2>Faltan</h2>
         </div>        
@@ -41,7 +41,7 @@
                 </div>
             </div>                                
         </div>
-        <div class="col-md-12 text-center" style="margin-top:5%">
+        <div class="col-md-12 text-center" style="margin-top:1%">
             <hr>
             <h4><i>¡FALTA MUY POCO!</i></h4>
             <hr>            
