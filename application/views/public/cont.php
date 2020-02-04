@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             <div class="col-md-3 col-xs-12">
-                <div class="card text-white bg-dark mb-3" style="max-width: 25rem;">
+                <div class="card text-white bg-dark mb-3" style="min-width: 6rem;">
                     <div class="card-header">Días</div>
                     <div class="card-body">
                         <h5 id="adias" class="card-title"></h5>                
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-xs-12">
-                <div class="card text-white bg-dark mb-3" style="max-width: 25rem;">
+                <div class="card text-white bg-dark mb-3" style="min-width: 6rem;">
                     <div class="card-header">Hrs.</div>
                     <div class="card-body">
                         <h5 id="ahoras" class="card-title"></h5>                
@@ -25,7 +25,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-xs-12">
-                <div class="card text-white bg-dark mb-3" style="max-width: 25rem;">
+                <div class="card text-white bg-dark mb-3" style="min-width: 6rem;">
                     <div class="card-header">Min.</div>
                     <div class="card-body">
                         <h5 id="aminutos" class="card-title"></h5>                
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-xs-12">
-                <div class="card text-white bg-dark mb-3" style="max-width: 25rem;">
+                <div class="card text-white bg-dark mb-3" style="min-width: 6rem;">
                     <div class="card-header">Seg.</div>
                     <div class="card-body">
                         <h5 id="asegundos" class="card-title"></h5>                
