@@ -41,6 +41,9 @@
                 </div>
             </div>                                
         </div>
-        <br>
-        <h4><i>¡JUNTOS!</i></h4>
+        <div class="col-md-12 center">
+            <hr>
+            <h4><i>¡JUNTOS!</i></h4>
+            <hr>            
+        </div>           
     </div>

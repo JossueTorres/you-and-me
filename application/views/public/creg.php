@@ -1,7 +1,7 @@
 <body onload="ConteoRegresivo()">
 <div class="container h-100">
     <div class="row h-100 justify-content-center align-items-center">
-        <div class="col-md-12">
+        <div class="col-md-12 center">
             <br>
             <a href="<?= base_url()?>Cont">¿Quieres saber cuánto tiempo tenemos Juntos?</a>
             <br>
@@ -41,10 +41,9 @@
                 </div>
             </div>                                
         </div>
-        <br>
-        <h4><i>¡FALTA MUY POCO!</i></h4>
-        <div>
+        <div class="col-md-12 center">
             <hr>
-            <hr>
-        </div>
+            <h4><i>¡FALTA MUY POCO!</i></h4>
+            <hr>            
+        </div>         
     </div>
