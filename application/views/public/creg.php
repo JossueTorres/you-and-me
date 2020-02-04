@@ -1,3 +1,6 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
 <body onload="ConteoRegresivo()">
 <div class="container"></div>
 <div class="container h-100 align-self-center">
