@@ -5,7 +5,7 @@ class Login extends CI_Controller {
 
 	public function index()
 	{		
-		$this->load->view('login');
+		$this->load->view('public/login');
 		if (!$this->session->userdata()) {
 			redirect(base_url('Inicio'));
 		}
