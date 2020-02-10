@@ -45,7 +45,7 @@
 <body>
 	<center>
 		<div class="MainCont">
-			<h1 class="Titulo">Tour Utec</h1>
+			<h1 class="Titulo">Ingresar</h1>
 			<div class="panel panel-primary">
 				<form method="POST" action="<?php echo base_url('Login/Ingresar'); ?>" name="formLogin">
 					<div class="panel-header">
