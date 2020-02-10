@@ -5,7 +5,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>TourUtec|Admin</title>
 	<!-- Bootstrap 3.3.7 -->
-	<link rel="stylesheet" href="<?php echo base_url('/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'); ?>">
+  <link rel="stylesheet" href="<?php echo base_url('/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'); ?>">
+  <!-- jQuery 3 -->
+	<script src="<?php echo base_url('/assets/bower_components/jquery/dist/jquery.min.js'); ?>"></script>
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="<?php echo base_url('/assets/bower_components/font-awesome/css/font-awesome.min.css'); ?>">
 	<!-- AdminLTE App -->
@@ -61,11 +63,7 @@
 				</form>
 			</div>
 		</div>
-	</center>
-
-
-	<!-- jQuery 3 -->
-	<script src="<?php echo base_url('/assets/bower_components/jquery/dist/jquery.min.js'); ?>"></script>
+	</center>	
 	<!-- Bootstrap 3.3.7 -->
 	<script src="<?php echo base_url('/assets/bower_components/bootstrap/dist/js/bootstrap.min.js'); ?>"></script>
 </body>
