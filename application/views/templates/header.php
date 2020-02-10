@@ -67,10 +67,10 @@ p.footer {
 }
 </style>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<link rel="stylesheet" href="<?= base_url()?>assets/css/custom/creg.css">
+<link rel="stylesheet" href="<?= base_url()?>assets/build/css/custom/creg.css">
 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<script src="<?= base_url()?>assets/scripts/custom/creg.js"></script>
-<script type="text/javascript" src="<?= base_url() ?>assets/scripts/custom/scriptfoot.js"></script>
+<script src="<?= base_url()?>assets/build/js/custom/creg.js"></script>
+<script type="text/javascript" src="<?= base_url() ?>assets/build/js/custom/scriptfoot.js"></script>
 </head>
