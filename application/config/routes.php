@@ -55,3 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['Login'] = 'Security/Login';
 $route['Login/Ingresar'] = 'Security/Auth/Login';
+$route['Logout'] = 'Security/Auth/logout';
