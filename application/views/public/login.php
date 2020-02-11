@@ -3,7 +3,7 @@
 
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>TourUtec|Admin</title>
+	<title>Nuestra Historia O&M</title>
 	<!-- Bootstrap 3.3.7 -->
   <link rel="stylesheet" href="<?php echo base_url('/assets/bower_components/bootstrap/dist/css/bootstrap.min.css'); ?>">
   <!-- jQuery 3 -->
