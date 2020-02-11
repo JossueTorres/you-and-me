@@ -16,7 +16,7 @@ class AuthModel extends CI_Model {
         if ($this->db->affected_rows() == 1) {
             $this->db->where('ID', $row['ID_PERSONA']);
             $per = $this->db->get($this->PERSONA);
-            return $per;
+            return $per->result();
         }else {
             return false;
         }
