@@ -5,7 +5,7 @@ class Auth extends CI_Model {
 
     public function __construct(){                
         $this->USUARIO = 'TBL_USR_USUARIO';
-        $this->PERSONA = 'TBL_USR_USUARIO';
+        $this->PERSONA = 'TBL_PER_PERSONA';
     }
 
 	public function login($data){
