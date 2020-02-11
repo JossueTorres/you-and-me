@@ -24,7 +24,7 @@ class Auth extends CI_Controller
 			'pwd' => $this->input->post("txtPass"),
 		);
 
-		$output = $this->Auth->login($_param);
+		$output = $this->AuthModel->login($_param);
 
 		if ($output != null)
 			$valida = true;
