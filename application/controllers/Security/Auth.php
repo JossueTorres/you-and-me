@@ -44,7 +44,7 @@ class Auth extends CI_Controller
 			redirect(base_url('Prueba'));
 
 		} else
-			redirect(base_url('Login'));
+			redirect(base_url('Login/index'));
 	}
 
 	public function logout()
